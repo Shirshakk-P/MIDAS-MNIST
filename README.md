@@ -1,5 +1,5 @@
 # MIDAS-MNIST
-
+Submission for the MIDAS@IIITD Summer Internship/RA Task 2021.
 
 Abstract:
 
