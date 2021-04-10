@@ -19,17 +19,20 @@ Environment Requirements:
 
 Dataset Links:
 
-  Task 1:
+  Part 1:
   
     (trainPart1.zip): https://www.dropbox.com/s/pan6mutc5xj5kj0/trainPart1.zip
-  Task 2:
+  Part 2:
   
     MNIST.zip: provided in this repository
     
-  Task 3:
+  Part 3:
   
     mnistTask3.zip: https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip
 
+Observations:
+
+    A final accuracy of  is found in part 1, in part 2 and in part 3.
 Author:
 
     Shirshakk Purkayastha
