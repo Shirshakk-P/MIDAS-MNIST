@@ -12,7 +12,10 @@ Environment Requirements:
 
     Python 3.0
     Google Collab
-    GPU
+    GPU support
+    Keras-backend
+    numpy
+    split_folders
 
 
 
