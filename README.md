@@ -17,7 +17,18 @@ Environment Requirements:
     numpy
     split_folders
 
+Dataset Links:
 
+  Task 1:
+  
+    (trainPart1.zip): https://www.dropbox.com/s/pan6mutc5xj5kj0/trainPart1.zip
+  Task 2:
+  
+    MNIST.zip: provided in this repository
+    
+  Task 3:
+  
+    mnistTask3.zip: https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip
 
 Author:
 
