@@ -32,7 +32,21 @@ Dataset Links:
 
 Observations:
 
-    A final accuracy of  is found in part 1, in part 2 and in part 3.
+TRAINING DATASET:
+
+        A final accuracy of ~98.30% is found in part 1, ~92.75% in part 2 and ~90% in part 3.
+        
+TESTING DATASET:       
+        
+        Part 1: '4' was predicted as 'K' (Sample021) with a probability of 1.0
+        Part 2: '7' was predicted as '7' (Sample008) with a probability of 1.0
+        Part 3: '6' was predicted as '5' with a probability of 1.0
+        
+ISSUES:
+
+    The model always gives a prediction probability of 1.0
+    
+    
 Author:
 
     Shirshakk Purkayastha
