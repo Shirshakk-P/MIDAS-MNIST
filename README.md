@@ -6,8 +6,6 @@ Abstract:
     This repository contains the CNN model capable of recognising hand-written digits from the MNIST Dataset.
 
 
-    Repository created as my submission for selection task for the Summer Internship 2021 at MIDAS Lab, IIIT-Delhi.
-
 Environment Requirements:
 
     Python 3.0
@@ -44,7 +42,7 @@ TESTING DATASET:
         
 ISSUES:
 
-    The model always gives a prediction probability of 1.0
+    The model always gives a prediction probability of 1.0 on the testing data for most of the cases.
     
     
 Author:
